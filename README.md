@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!!! :D
+I am a second semester Computer Programming and Analysis Student at Algonquin College! 
 
 <!--
 **Fiona1217/Fiona1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
