@@ -1,4 +1,4 @@
-## Hello!!! :D
+## Hello!! :D
 I am a second semester Computer Programming and Analysis Student at Algonquin College! 
 
 <!--
