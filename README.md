@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=Fiona1217&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiona1217&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 <ins>Leetcode:</ins><br/>
-![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/dmytrobaida?theme=neutral)
+![](https://leetcode-badge-sage.vercel.app/badge/fionaang2006?theme=neutral)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fiona1217&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
