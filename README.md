@@ -1,5 +1,5 @@
 ## Hello!! :D
-I am a third semester Computer Programming and Analysis Student at Algonquin College! I sometimes code during my free time, I like nature and arts too 🍀🎨
+I am a Computer Programming and Analysis Student at Algonquin College! I sometimes code during my free time, I like nature and arts too 🍀🎨
 
 <!--
 **Fiona1217/Fiona1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
